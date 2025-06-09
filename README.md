@@ -7,9 +7,8 @@
 
 ## 项目概览
 
-![产品示意图]
-(media/images/prototyping_01.jpg
-media/images/prototyping_02.jpg
+![产品示意图](media/images/prototyping_01.jpg）
+（media/images/prototyping_02.jpg）
 media/images/prototyping_03.jpg
 media/images/prototyping_04.jpg
 media/images/prototyping_05.jpg
