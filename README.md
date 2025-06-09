@@ -8,11 +8,7 @@
 ## 项目概览
 
 ![产品示意图](media/images/prototyping_01.jpg）
-（media/images/prototyping_02.jpg）
-media/images/prototyping_03.jpg
-media/images/prototyping_04.jpg
-media/images/prototyping_05.jpg
-)
+
 
 OpenTennisTrainingBot是一个智能化的开源网球发球机解决方案，旨在为个人玩家和教练提供专业级的训练体验。
 
